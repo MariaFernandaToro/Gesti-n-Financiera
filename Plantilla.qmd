@@ -45,9 +45,8 @@ Para el análisis se consideraron tres variables relevantes: precio de la opció
 
 -   Opción: TSLA Sep 2024 237.500 call (TSLA240927C00237500). Esta opción te da el derecho de comprar acciones de Tesla a \$237.50 antes de septiembre de 2024. El precio de la opción cambia en función de cosas como la volatilidad (cuánto varía el precio de las acciones) y el tiempo que queda hasta la fecha de vencimiento. Dado que las acciones de Tesla son conocidas por ser volátiles, el valor de esta opción sube si el precio de las acciones de Tesla sube por encima de \$237.50.
 
-```{=html}
 <!-- -->
-```
+
 -   Acción: Tesla, Inc. (TSLA). Actualmente la acción de Tesla cuesta \$243.92 (22 de septiembre de 2024). Tesla es un líder en autos eléctricos y energía renovable, lo que ha hecho que su acción sea una de las más volátiles en el mercado. El precio de la acción está muy ligado al desempeño de la empresa en el mercado de vehículos eléctricos y sus innovaciones en el sector de energía renovable, lo que genera expectativas de crecimiento.
 
 -   Bono: NextEra Energy Bond (vencimiento el 2028, 3.375%). Este bono de NextEra Energy, con un rendimiento anual del 3.375% y un valor de \$1,020, es mucho más estable comparado con las acciones de Tesla. Aunque es un bono de renta fija, también está relacionado con el sector de energía renovable, donde Tesla también juega un papel importante, lo que lo convierte en una opción menos volátil para invertir en el sector energético.
